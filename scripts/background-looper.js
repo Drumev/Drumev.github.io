@@ -216,7 +216,7 @@ var BackgroundLooper = (function () {
     }
 
     return {
-        run: run,
+        //run: run,
         pause: pause
     };
 })();
