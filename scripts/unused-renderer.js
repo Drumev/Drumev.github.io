@@ -1,5 +1,5 @@
 /*global Kinetic */
-var renderer = (function () {
+var renderer1 = (function () {
     'use strict';
 
     var stage = new Kinetic.Stage({
