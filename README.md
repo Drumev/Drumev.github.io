@@ -1,2 +1,0 @@
-Hotaru-JavaScript
-=================
